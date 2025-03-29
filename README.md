@@ -5,7 +5,7 @@ This project involves analyzing retail sales data using SQL and Python for data 
 
 ## Tools Used
 - SQL
-- Python (Pandas, Matplotlib)
+- Python (Pandas,Numpy, Matplotlib)
 - Excel (Pivot Tables, Charts, Slicers)
 
 ## Project Steps
