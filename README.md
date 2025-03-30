@@ -18,3 +18,4 @@ This project involves analyzing retail sales data using SQL and Python for data 
 - Identified key sales trends and customer spending patterns.
 - Provided actionable insights for targeted marketing.
 - Developed an automated Excel report for easy monitoring.
+- 
